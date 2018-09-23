@@ -1,18 +1,3 @@
-/*****************************************************************************
-                _   _____    __   
-    ___   ___  / | |___ /   / /_  
-   / __| / __| | |   |_ \  | '_ \ 
-  | (__  \__ \ | |  ___) | | (_) |
-   \___| |___/ |_| |____/   \___/ 
-   
-   The CS 136 tools library
-   by Dave Tompkins [dtompkins@uwaterloo.ca]
-   (with help from other CS 136 team members)
-   
-   Version: 0.7 -- release for A6
-   
- ****************************************************************************/
-
 #include <assert.h>
 #include <limits.h>
 #include <stdbool.h>
